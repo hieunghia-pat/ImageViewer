@@ -1,7 +1,3 @@
----
-description: Image Viewer Application using Qt framework
----
-
 ## Image Viewer Application using Qt framework
 This Application is completely created using C++ with Qt framework. To build this application, you need Qt Creator to load this project into Qt definded strcutured then build it.
 
