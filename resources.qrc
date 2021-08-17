@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/copy-icon.png</file>
+        <file>icons/fittowindow-icon.png</file>
+        <file>icons/normalsize-icon.png</file>
+        <file>icons/open-icon.png</file>
+        <file>icons/paste-icon.png</file>
+        <file>icons/quit-icon.png</file>
+        <file>icons/saveas-icon.png</file>
+        <file>icons/save-icon.png</file>
+        <file>icons/zoomin-icon.png</file>
+        <file>icons/zoomout-icon.png</file>
+    </qresource>
+</RCC>
